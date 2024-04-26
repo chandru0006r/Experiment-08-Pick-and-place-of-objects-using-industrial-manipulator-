@@ -101,12 +101,33 @@ and click on the connect icon
 ### output video and screen shots of pick and place 
 
 
+![r1](https://github.com/AlluguriSrikrishnateja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/118343892/7c9638af-7af1-49af-9994-0bbd6926601d)
+
+
+![r2](https://github.com/AlluguriSrikrishnateja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/118343892/44178f50-be54-495d-b06e-3b230508771a)
+
+
+![r3](https://github.com/AlluguriSrikrishnateja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/118343892/a8c78a2d-46b7-4a26-8b85-8d320ee6f3b7)
+
+
+![r4](https://github.com/AlluguriSrikrishnateja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/118343892/02d7f479-c009-4e91-8133-931541121103)
+
+
+![r5](https://github.com/AlluguriSrikrishnateja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/118343892/4d226164-ed85-43f9-98de-cb4f51530a9f)
+
+![r6](https://github.com/AlluguriSrikrishnateja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/118343892/90852e12-39d8-413c-b36b-18cc671d54bd)
 
 
 
+## VIDEO LINK:
+
+            
+              https://drive.google.com/file/d/1deOhh5pScxJRYAxUWoyqGtORdXG82haO/view?usp=drive_link
+            
 
 
 ### Results: 
+            Thus, The Pick and Place of the objects using industrial manipulators are performed and executed.
 
 
 
